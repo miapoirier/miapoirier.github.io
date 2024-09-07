@@ -1,0 +1,49 @@
+body {
+    font-family: Helvetica, Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+
+#logo {
+    margin: 0px;
+    padding: 8px;
+    background-color: orange;
+    font-family: "Fredoka One", sans-serif;
+    box-shadow: 10px 10px 15px 5px purple;
+    width: 16%;
+    border-radius: 50%;
+}
+
+ul {
+    margin: 0px;
+}
+
+body > header {
+    background-color: orange;
+    color: white;
+}
+
+body > header > nav > ul {
+    list-style-type: none;
+}
+
+.navbutton {
+    color:white;
+    text-decoration: none;
+}
+
+body > main > article {
+    width: 70%;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+body > footer {
+    background-color: orange;
+}
